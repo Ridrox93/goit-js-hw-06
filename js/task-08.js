@@ -18,3 +18,6 @@ function handleSubmit(event) {
 
   event.currentTarget.reset();
 }
+
+
+//перевірка
